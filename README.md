@@ -8,3 +8,4 @@ readme.md
 <!-- 2024-12-29-3: Clean up unused imports in request builder -->
 <!-- 2024-12-29-4: Add edge case test for broken redirect -->
 <!-- 2024-12-29-5: perf(db): patch payment handler to handle list has no items correctly -->
+<!-- 2024-12-29-6: Patch event emitter to handle request times out correctly -->
