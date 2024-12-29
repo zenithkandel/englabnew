@@ -9,3 +9,4 @@ readme.md
 <!-- 2024-12-29-4: Add edge case test for broken redirect -->
 <!-- 2024-12-29-5: perf(db): patch payment handler to handle list has no items correctly -->
 <!-- 2024-12-29-6: Patch event emitter to handle request times out correctly -->
+<!-- 2024-12-29-7: feat(auth): improve test coverage for input sanitization -->
