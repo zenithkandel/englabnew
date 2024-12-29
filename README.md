@@ -10,3 +10,4 @@ readme.md
 <!-- 2024-12-29-5: perf(db): patch payment handler to handle list has no items correctly -->
 <!-- 2024-12-29-6: Patch event emitter to handle request times out correctly -->
 <!-- 2024-12-29-7: feat(auth): improve test coverage for input sanitization -->
+<!-- 2024-12-29-8: feat(api): add usage example for multi-language -->
