@@ -24,3 +24,4 @@ readme.md
 <!-- 2024-12-31-5: test: extend export service with auto-save -->
 <!-- 2024-12-31-6: Mock react in request builder tests -->
 <!-- 2024-12-31-7: Bump pytest to latest stable version -->
+<!-- 2024-12-31-8: Improve docstring for middleware -->
