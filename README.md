@@ -22,3 +22,4 @@ readme.md
 <!-- 2024-12-31-3: test(db): add inline comments to user service -->
 <!-- 2024-12-31-4: refactor: rename variables in validation util for consistency -->
 <!-- 2024-12-31-5: test: extend export service with auto-save -->
+<!-- 2024-12-31-6: Mock react in request builder tests -->
