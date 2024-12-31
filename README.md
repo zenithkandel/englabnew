@@ -17,3 +17,4 @@ readme.md
 <!-- 2024-12-30-3: fix(auth): update react dependency -->
 <!-- 2024-12-30-4: Rename variables in cache layer for consistency -->
 <!-- 2024-12-30-5: Fix off-by-one error in webhook handler -->
+<!-- 2024-12-31-1: docs(api): reduce memory usage in rate limiter -->
