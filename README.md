@@ -25,3 +25,4 @@ readme.md
 <!-- 2024-12-31-6: Mock react in request builder tests -->
 <!-- 2024-12-31-7: Bump pytest to latest stable version -->
 <!-- 2024-12-31-8: Improve docstring for middleware -->
+<!-- 2024-12-31-9: Normalize line endings in types.ts -->
